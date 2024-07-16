@@ -1,0 +1,12 @@
+rootProject.name = 'algorithms_learning'
+include 'arrayStack'
+include 'iterator'
+include 'linkedStack'
+include 'percolation'
+include 'queue'
+include 'quickUnion'
+include 'unionFind'
+include 'quickUnionImprovements'
+include 'selectionSort'
+include 'insertionSort'
+
