@@ -10,4 +10,5 @@ include 'quickUnionImprovements'
 include 'selectionSort'
 include 'insertionSort'
 include 'shellSort'
+include 'shuffle'
 
