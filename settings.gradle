@@ -11,4 +11,5 @@ include 'selectionSort'
 include 'insertionSort'
 include 'shellSort'
 include 'shuffle'
+include 'convexHull'
 
