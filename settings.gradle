@@ -9,4 +9,5 @@ include 'unionFind'
 include 'quickUnionImprovements'
 include 'selectionSort'
 include 'insertionSort'
+include 'shellSort'
 
