@@ -12,4 +12,5 @@ include 'insertionSort'
 include 'shellSort'
 include 'shuffle'
 include 'convexHull'
+include 'mergeSort'
 
