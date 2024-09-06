@@ -21,7 +21,8 @@ public class QuickUnion {
     }
 
     private int root(int current) {
-        while (current != id[current]) current = id[current];
+        while (current != id[current])
+            current = id[current];
         return current;
     }
 }

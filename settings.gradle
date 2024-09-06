@@ -13,4 +13,6 @@ include 'shellSort'
 include 'shuffle'
 include 'convexHull'
 include 'mergeSort'
+include 'hashMap'
+include 'bubbleSort'
 

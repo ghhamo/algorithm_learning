@@ -12,7 +12,8 @@ public class QuickFindUF {
 
     public void union(int p, int q) {
         for (int i = 0; i < id.length; i++) {
-            if (id[i] == id[q]) id[i] = id[p];
+            if (id[i] == id[q])
+                id[i] = id[p];
         }
     }
 
