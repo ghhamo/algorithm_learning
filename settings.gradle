@@ -15,4 +15,5 @@ include 'convexHull'
 include 'mergeSort'
 include 'hashMap'
 include 'bubbleSort'
+include 'quickSort'
 
