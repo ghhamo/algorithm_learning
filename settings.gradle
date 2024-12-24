@@ -16,4 +16,6 @@ include 'mergeSort'
 include 'hashMap'
 include 'bubbleSort'
 include 'quickSort'
+include 'priorityQueue'
+include 'heap'
 
