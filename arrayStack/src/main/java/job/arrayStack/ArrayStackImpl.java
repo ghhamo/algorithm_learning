@@ -12,6 +12,16 @@ public class ArrayStackImpl<V> implements ArrayStack<V> {
     }
 
     @Override
+    public V getLast() {
+        return stack[n - 1];
+    }
+
+    @Override
+    public int size() {
+        return n;
+    }
+
+    @Override
     public void push(V input) {
         if (n == stack.length) resizeArray();
         stack[n++] = input;

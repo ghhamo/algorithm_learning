@@ -1,6 +1,6 @@
 package job;
 
-public class Main {
+public class HeapMain {
     public static void main(String[] args) {
         MaxHeap<Integer> maxHeap = new MaxHeap<>(10);
         maxHeap.add(1);

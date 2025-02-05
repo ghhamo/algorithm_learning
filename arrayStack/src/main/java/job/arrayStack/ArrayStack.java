@@ -8,4 +8,7 @@ public interface ArrayStack<V> {
 
      boolean isEmpty();
 
+     V getLast();
+
+     int size();
 }
