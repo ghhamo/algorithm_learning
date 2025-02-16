@@ -19,4 +19,4 @@ include 'quickSort'
 include 'priorityQueue'
 include 'heap'
 include 'shuntingYard'
-
+include 'symbolTable'
