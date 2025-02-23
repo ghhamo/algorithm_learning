@@ -20,3 +20,5 @@ include 'priorityQueue'
 include 'heap'
 include 'shuntingYard'
 include 'symbolTable'
+include 'binarySearchTree'
+
